@@ -9,7 +9,11 @@ A simple implementation of a Graph Neural Network for histology image classifica
 3. [Usage](#usage)
 
 ## Installation
-HistoGNN has been developed using Python 3.7. 
+HistoGNN has been developed using Python 3.7. Clone the repository:
+
+```sh
+git clone https://github.com/ChakraLab/HistoGNN
+```
 
 ## Requirements
 It depends on a few Python packages, including:
