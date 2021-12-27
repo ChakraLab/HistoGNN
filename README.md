@@ -13,6 +13,7 @@ HistoGNN has been developed using Python 3.7.
 It depends on a few Python packages, including:
 * dgl (0.6.1) - [dgl library](https://pypi.org/project/dgl-cu101/)
 * torch (1.9.0+cu102)
+* google_drive_downloader - [GoogleDriveDownloader](https://pypi.org/project/googledrivedownloader/)
 
 ## Usage
 The code can be simply run with:
