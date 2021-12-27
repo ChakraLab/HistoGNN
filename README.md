@@ -28,5 +28,6 @@ The optional arguments are:
 usage: cgnn_run.py [--gpus GPUS] [--nodes NODES]
 
 Arguments:
-  --gpus    number of GPUs
-  --nodes   number of nodes
+  --gpu GPU             gpu (-1 for no GPU, 0 otherwise)
+  --gpus                number of GPUs
+  --nodes               number of nodes
