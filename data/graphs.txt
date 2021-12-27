@@ -1,2 +1,0 @@
-Download train_data_invasive, val_data_invasive, test_data_invasive from here:
-https://pitt-my.sharepoint.com/:f:/g/personal/akp47_pitt_edu/Ehg4F0xrWQVDuG1khaXGN_IB8RHpTKH7m4-oXNgwA-n9dg?e=aoHq5b
