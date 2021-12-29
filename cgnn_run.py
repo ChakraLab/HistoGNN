@@ -1,4 +1,4 @@
-# Copyright (c) 2021, University of Pittsburgh. All rights reserved.
+# Copyright (c) 2020, University of Pittsburgh. All rights reserved.
 
 import dgl
 
