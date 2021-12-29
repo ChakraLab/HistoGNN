@@ -38,5 +38,9 @@ Arguments:
   --gpu GPU             gpu (-1 for no GPU, 0 otherwise)
   --gpus                number of GPUs
   --nodes               number of nodes
+```
 
 ## References
+1. Parvatikar, Akash, et al. "Modeling Histological Patterns for Differential Diagnosis of Atypical Breast Lesions." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020.
+2. Parvatikar, Akash, et al. "Prototypical Models for Classifying High-Risk Atypical Breast Lesions." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2021.
+3. Pati, Pushpak, et al. "Hact-net: A hierarchical cell-to-tissue graph neural network for histopathological image classification." Uncertainty for Safe Utilization of Machine Learning in Medical Imaging, and Graphs in Biomedical Image Analysis. Springer, Cham, 2020. 208-219.
