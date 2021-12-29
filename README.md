@@ -7,6 +7,7 @@ Implementation of a Graph Neural Network for histology image classification task
 1. [Installation](#installation)
 2. [Requirements](#Requirements)
 3. [Usage](#usage)
+4. [References](#references)
 
 ## Installation
 HistoGNN has been developed using Python 3.7. Clone the repository:
@@ -37,3 +38,5 @@ Arguments:
   --gpu GPU             gpu (-1 for no GPU, 0 otherwise)
   --gpus                number of GPUs
   --nodes               number of nodes
+
+## References
