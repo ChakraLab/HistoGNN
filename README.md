@@ -1,6 +1,6 @@
 # HistoGNN
 
-A simple implementation of a Graph Neural Network for histology image classification tasks. 
+Implementation of a Graph Neural Network for histology image classification tasks. 
 
 ## Table of Contents
 
