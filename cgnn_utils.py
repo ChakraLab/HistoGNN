@@ -1,3 +1,5 @@
+# Copyright (c) 2021, University of Pittsburgh. All rights reserved.
+
 import dgl
 import torch
 import torch.nn as nn
